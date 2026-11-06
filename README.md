@@ -7,7 +7,7 @@
 **Le runner 2D sans fin façon Super Mario Bros × Subway Surfers**
 Ordinateur · Mobile · Installable · Jouable hors ligne
 
-![version](https://img.shields.io/badge/version-4.5-ffd23f?style=for-the-badge)
+![version](https://img.shields.io/badge/version-5.0-ffd23f?style=for-the-badge)
 ![pwa](https://img.shields.io/badge/PWA-offline-5cb82a?style=for-the-badge)
 ![zero deps](https://img.shields.io/badge/d%C3%A9pendances-0-e52521?style=for-the-badge)
 ![license](https://img.shields.io/badge/licence-MIT-2b4acb?style=for-the-badge)
@@ -18,20 +18,12 @@ Ordinateur · Mobile · Installable · Jouable hors ligne
 
 ---
 
-## ✨ Nouveautés de la v4.5
+## ✨ Nouveautés de la v5.0
 
 | | |
 |---|---|
-| 🎨 **Graphismes refinés** | Ciels plus doux, collines par zones, nuages, herbe détaillée, fleurs |
-| ✨ **Menus fluides** | Glassmorphism, animations plus souples, boutons arrondis et réactifs |
-| 🌅 **Ambiances de zone** | Jour lumineux · Coucher de soleil chaud · Nuit étoilée · Forêt verdoyante |
-| 👤 **Boutique de personnages** | Costumes dans une boutique dédiée |
-| ⚡ **Boutique d’améliorations** | Upgrades séparés (double saut, aimant+, bouclier…) |
-
-## ✨ Nouveautés de la v4.3
-
-| | |
-|---|---|
+| 🧑 **Personnages 3D** | Nouvel onglet : carrousel 3D en voxels, 8 personnages à débloquer, aperçu animé dans le menu |
+| 🎨 **Refonte visuelle** | Onglets, cartes, sprites ombrés et nouvelle typographie |
 | 🎬 **Menus animés** | Transitions fluides, titre flottant, boutons réactifs, écran d'aide |
 | 🏃 **Animations pro** | Squash & stretch, ombre, poussière, particules qui s'estompent |
 | ⏱️ **Compte à rebours** | 3 · 2 · 1 · GO ! avant chaque partie |
@@ -47,8 +39,7 @@ Ordinateur · Mobile · Installable · Jouable hors ligne
 - **4 zones** : jour → coucher de soleil → nuit → forêt
 - **Obstacles variés** : trous, tuyaux, briques, ennemis, oiseaux
 - **Bonus** : 🧲 aimant · 🛡️ bouclier · 🪙 pièces ×2 · ⭐ étoile invincible
-- **Boutique d’améliorations** : double saut, aimant+, bouclier de départ, pièces dorées
-- **Boutique de personnages** : 5 costumes (Classique, Vert, Violet, Cyan, Or)
+- **Boutique** : double saut, aimant+, bouclier de départ, pièces dorées, 5 costumes
 - **Sauvegarde automatique** : pièces, achats, record
 - **PWA** : installable sur l'écran d'accueil, fonctionne sans connexion
 
